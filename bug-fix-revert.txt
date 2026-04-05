@@ -1,6 +1,2 @@
-$ curl -s https://api.github.com/repos/USERNAME/mcino-Introduction-to-Git-and-GitHub/pulls | grep -A 3 '"state": "open"'
-    "state": "open",
-    "locked": false,
-    "title": "Bug Fix Revert",
-    "user": {
-      "login": "USERNAME",
+$ curl -s https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls | grep -i "\"label\": \"fajaralin:bug-fix-typo\""
+        "label": "fajaralin:bug-fix-typo",

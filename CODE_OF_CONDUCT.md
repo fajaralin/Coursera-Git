@@ -1,24 +1,23 @@
 # Code of Conduct
 
-## Janji Kami (Our Pledge)
-Kami sebagai anggota, kontributor, dan pemimpin berjanji untuk menjadikan partisipasi dalam komunitas kami sebagai pengalaman yang bebas dari pelecehan bagi semua orang.
+## Our Pledge
+We pledge to make participation in our project and our community a harassment-free experience for everyone.
 
-## Standar Kami (Our Standards)
-Contoh perilaku yang berkontribusi untuk menciptakan lingkungan yang positif meliputi:
-* Menggunakan bahasa yang ramah dan inklusif
-* Saling menghargai sudut pandang yang berbeda
+## Our Standards
+Examples of behavior that contributes to creating a positive environment include:
+* Using welcoming and inclusive language.
 
-## Tanggung Jawab Penegakan (Enforcement Responsibilities)
-Pemimpin komunitas bertanggung jawab untuk memperjelas dan menegakkan standar perilaku yang dapat diterima.
+## Enforcement Responsibilities
+Community leaders are responsible for clarifying the standards of acceptable behavior and are expected to take appropriate and fair corrective action in response to any instances of unacceptable behavior.
 
-## Ruang Lingkup (Scope)
-Pedoman ini berlaku di semua ruang komunitas, maupun di ruang publik ketika seorang individu mewakili komunitas.
+## Scope
+This Code of Conduct applies within all community spaces, and it also applies when an individual is representing the community in public spaces.
 
-## Penegakan (Enforcement)
-Tindakan pelecehan atau perlakuan yang tidak dapat diterima bisa dilaporkan ke pemimpin komunitas. Mereka berhak dan bertanggung jawab untuk menghapus, mengedit, atau menolak komentar, commit, dan kontribusi lainnya yang tidak sesuai dengan Kode Etik ini.
+## Enforcement
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team.
 
-## Pedoman Penegakan (Enforcement Guidelines)
-Pemimpin komunitas akan menegakkan aturan dengan memberikan peringatan tertulis, penangguhan sementara, hingga pengusiran permanen bagi mereka yang melanggar.
+## Enforcement Guidelines
+Community leaders will follow these Community Impact Guidelines in determining the consequences for any action they deem in violation of this Code of Conduct.
 
-## Atribusi (Attribution)
-Kode Etik ini diadaptasi dari Contributor Covenant.
+## Attribution
+This Code of Conduct is adapted from the Contributor Covenant, version 2.0.
