@@ -1,2 +1,2 @@
-$ curl -s https://api.github.com/repos/fajaralin/mcino-Introduction-to-Git-and-GitHub | grep '"fork": true'
-  "fork": true,
+$ curl -s https://api.github.com/repos/fajaralin/mcino-Introduction-to-Git-and-GitHub | grep '"fork": true'
+  "fork": true,

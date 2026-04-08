@@ -1,2 +1,2 @@
-$ curl -s https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls | grep -i "\"label\": \"fajaralin:bug-fix-typo\""
-        "label": "fajaralin:bug-fix-typo",
+$ curl -s https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls | grep -i "\"label\": \"fajaralin:bug-fix-typo\""
+        "label": "fajaralin:bug-fix-typo",
